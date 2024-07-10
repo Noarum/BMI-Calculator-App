@@ -1,4 +1,4 @@
-# flutter_application_2
+# BMI-APP
 
 A new Flutter project.
 
